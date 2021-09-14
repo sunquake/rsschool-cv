@@ -5,7 +5,9 @@
 <h3>Contact information:</h3>
 <br>
 Phone: +7 707 7271828
+<br>
 E-mail: kaskyr@gmail.com
+<br>
 Telegram: @daniyar_taraz
 <br>
 <h3>About Myself:</h3>
