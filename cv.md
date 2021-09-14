@@ -22,7 +22,7 @@ In 2010 I came back home. In 2021 I started to study at alem.school and rs.schoo
   <li>JavaScript</li>
 </ul></h4><hr/>
 <h3>Code example:</h3>
-<code>
+```
 package main<br>
 
 import "fmt"<br>
@@ -30,4 +30,4 @@ import "fmt"<br>
 func main() {<br>
   fmt.Println("Hello, World!")<br>
 }<br>
-</code>
+```
