@@ -28,5 +28,5 @@ package main<br>
 import "fmt"<br>
 
 func main() {<br>
-  fmt.Println("Hello, World!")<br>
+<tab>  fmt.Println("Hello, World!")<br>
 }<br>
