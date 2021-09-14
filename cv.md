@@ -1,6 +1,6 @@
-<h1>Daniyar Itmanbetov</h1><hr/>
-<h2>Student at rs.school</h2><hr/>
-<h3>Contact information:</h3><hr/>
+<h1>Daniyar Itmanbetov</h1>
+<h2>Student at rs.school</h2>
+<h3>Contact information:</h3>
 <h4><ul>
   <li>Phone: +7 707 7271828</li>
   <li>E-mail: kaskyr@gmail.com</li>
@@ -20,7 +20,7 @@ In 2010 I came back home. In 2021 I started to study at alem.school and rs.schoo
   <li>C/C++</li>
   <li>Java</li>
   <li>JavaScript</li>
-</ul></h4>
+</ul></h4><hr/>
 <h3>Code example:</h3>
 <code>
 package main
