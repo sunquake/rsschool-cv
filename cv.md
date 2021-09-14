@@ -2,8 +2,8 @@
 <h2>Student at rs.school</h2>
 <h3>Contact information:</h3>
 <h4>
-Phone: +7 707 7271828
-E-mail: kaskyr@gmail.com
+Phone: +7 707 7271828<br>
+E-mail: kaskyr@gmail.com<br>
 Telegram: @daniyar_taraz
 </h4>
 <h3>About Myself:</h3>
@@ -12,16 +12,16 @@ In 2000 I went to Germany to study Computer Science. In 2006 I went to the US fo
 In 2010 I came back home. In 2021 I started to study at alem.school and rs.school.
 <h3>Skills and Proficiency:</h3>
 <h4>
-HTML
-CSS
-Golang
-C/C++
-Java
+HTML<br>
+CSS<br>
+Golang<br>
+C/C++<br>
+Java<br>
 JavaScript
 </h4>
 <br>
 <h3>Code example:</h3>
-<code>```go
+<code>
 package main
 
 import "fmt"
@@ -29,5 +29,4 @@ import "fmt"
 func main() {
   fmt.Println("Hello, World!")
 }
-```
 </code>
